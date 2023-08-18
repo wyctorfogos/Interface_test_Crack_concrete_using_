@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e801ff72687041ed82e179b0620e9c9d/artifacts
+end_time: 1690752142524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e801ff72687041ed82e179b0620e9c9d
+run_name: welcoming-shrew-55
+run_uuid: e801ff72687041ed82e179b0620e9c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690752142521
+status: 4
+tags: []
+user_id: wytcor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d480e6315aa747b7b4da2ab6fe7cd4e2/artifacts
+end_time: 1690752264707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d480e6315aa747b7b4da2ab6fe7cd4e2
+run_name: sedate-quail-669
+run_uuid: d480e6315aa747b7b4da2ab6fe7cd4e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690752264704
+status: 4
+tags: []
+user_id: wytcor

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2eadcc3143834c169471dd16eaccaa71/artifacts
+end_time: 1690752164304
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2eadcc3143834c169471dd16eaccaa71
+run_name: adaptable-elk-483
+run_uuid: 2eadcc3143834c169471dd16eaccaa71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690752164294
+status: 4
+tags: []
+user_id: wytcor
